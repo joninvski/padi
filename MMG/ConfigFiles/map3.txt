@@ -1,0 +1,9 @@
+  x-x-t-v
+  |
+x-v-x-v-x
+| |   |
+t x-v-t
+| |   |
+x-v-x x-t-x-t
+|   |   |
+v   t---x

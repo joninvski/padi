@@ -1,0 +1,25 @@
+  x-x-t-v
+  |
+x-v-x-v-x---t-v-x-v-t
+| |   |     |     |
+t x-v-t     t     x-x-t-v
+| |   |     |     |
+x-v-x x-t-x-t     |
+|   |   |   |     |
+v   t---v   t-x-v-t
+    |       |   | |
+  x-t     t-x   x-t-x-t
+  |       |         | |
+x-v---x-v-x   v-----v-x-x------x-t-x-t
+  |       |   |         |      |   |
+  x-v-t   | t-x-v-t     t--v-t-t-v-v-t
+  |   |   | |           |
+  v---x---x t---x---x---t
+          | |   |   |   |
+          x-x   t---v-t-v
+          | |
+        x-v-x-x-v-x
+          |   |
+          x-v-t-x
+                |
+            v-t-x

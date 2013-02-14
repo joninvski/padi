@@ -1,0 +1,7 @@
+bin\Debug\CommonTypes.dll
+bin\Debug\CommonTypes.pdb
+bin\Debug\MMGLib.dll
+bin\Debug\MMGLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CommonTypes.dll
+obj\Debug\CommonTypes.pdb

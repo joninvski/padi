@@ -1,0 +1,5 @@
+PontTesouro=10
+PontAbrir=2
+PontVeneno=-5
+PontMaxima=30
+SalaInicial=0

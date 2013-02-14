@@ -1,0 +1,11 @@
+obj\Debug\Client.exe
+obj\Debug\Client.pdb
+bin\Debug\Client.exe
+bin\Debug\Client.pdb
+bin\Debug\CommonTypes.dll
+bin\Debug\MMGLib.dll
+bin\Debug\CommonTypes.pdb
+bin\Debug\MMGLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MMG.Exec.MMGCliente.resources
+obj\Debug\Client.csproj.GenerateResource.Cache
